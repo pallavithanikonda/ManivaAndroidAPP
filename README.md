@@ -1,5 +1,6 @@
 <h1>Maniva Android APP</h1>
 
+
 Customer web page to Android app. </b>
 
 App includes login-register and main page. Main page has gotten bottom navigation options. Every page can be clicked to see Detail page.
